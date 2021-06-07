@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Microsoft Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elastic Stack-005571?style=flat-square&logo=Elastic-Stack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elastic Stack-005571?style=flat-square&logo=Elastic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
 </p>
 
@@ -62,4 +62,7 @@
   <a href="mailto:sung07288346@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
+  <a href="https://velog.io/@leeseojune53" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <br>
+  📞 : 010-5103-9555
 </p>
