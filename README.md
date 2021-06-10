@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elastic Stack-005571?style=flat-square&logo=Elastic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codecov-F01F7A?style=flat-square&logo=Codecov&logoColor=white"/>
 </p>
 
 <h3 align='center'>🛠️ Tools</h3>
