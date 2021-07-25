@@ -64,6 +64,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://velog.io/@leeseojune53" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <br>
-  📞 : 010-5103-9555
+  <a href="https://violet-bait-646.notion.site/2beaf009da26448e8e2d4c448815fc65" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
 </p>
