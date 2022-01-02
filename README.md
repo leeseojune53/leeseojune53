@@ -1,4 +1,3 @@
-<h1 align='center'>🎊 Happy New Year ✨</h1>
 <h3 align='center'>Hi there 👋</h3>
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
